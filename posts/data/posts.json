@@ -1,0 +1,16 @@
+{
+    "posts": [
+        {
+            "title": "VueBlogger: A simple blogging site for Vue",  // Post title
+            "tags": ["Vue.js", "project", "frontend"],  // Post tags
+            "cover": "https://dev-to-uploads.s3.amazonaws.com/i/95lvt23xz4ozer5byomi.png",  // Post cover image url
+            "des": "There isn't really a simple blogging tool for Vue. VuePress works, but it's to complicated. So for that purpose, I developed this light-weight blogging site for Vue: VueBlogger.",  // Post description
+            "date": [  // Post publish date
+                2021,  // Year
+                10,  // Month
+                6  // Day
+            ],
+            "id": "blogue"  // Post file name stored under `/posts/`
+        }
+    ]
+}
