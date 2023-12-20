@@ -1,0 +1,17 @@
+{
+    "config": {
+        "username": "蓝色的胖子",
+        "avatarPath": "/src/assets/logo.jpg",
+        "description": "你的博客简介",
+        "name": "你的名称",
+        "blogTitle": "你的博客标题",
+        "blogStartYear": 2023 
+    },
+    "contacts": [  
+        {
+            "name": "Javen",
+            "value": "sunwenjie@hualaikeji.com",
+            "link": "联系方式链接，例如：mailto:xxx@example.com"
+        }
+    ]
+}
